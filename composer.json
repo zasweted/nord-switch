@@ -1,0 +1,14 @@
+{
+    "name": "zaswe/nord-switch",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {}
+}
